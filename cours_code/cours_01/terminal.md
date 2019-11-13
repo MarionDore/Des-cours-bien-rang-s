@@ -4,7 +4,7 @@
 
 Le terminal est l'équivalent de l'explorateur normal d'un ordinateur normal, mais uniquement de façon textuelle. Un terminal est moins intuitif qu'un explorateur normal mais il est bien plus puissant, ce dernier cré un lien direct avec l'ordinateur. 
 
-** les fonctions**
+**les fonctions**
 Le terminal recouvre de nombreuses fonctions qui nous permettent de l'executer de différentes maninières : 
 _ls_ : commande qui permet de voir dans quel dossier nous nous trouvons. 
 _cd_ : commande qui permet d'ouvrir un dossier.
